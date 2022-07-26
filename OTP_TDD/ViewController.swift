@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  OTP_TDD
 //
-//  Created by Chung EXI-Nguyen on 6/28/22.
+//  Created by Chung Nguyen on 6/28/22.
 //
 
 // feature

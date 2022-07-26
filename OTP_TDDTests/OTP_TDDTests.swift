@@ -2,7 +2,7 @@
 //  OTP_TDDTests.swift
 //  OTP_TDDTests
 //
-//  Created by Chung EXI-Nguyen on 6/28/22.
+//  Created by Chung Nguyen on 6/28/22.
 //
 
 import XCTest
